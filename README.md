@@ -1,4 +1,4 @@
-# Przedmiot_Fakultatywny
+# Przedmiot_Fakultatywny, Bartłomiej Ślesiński
 W zespole z :
 Marcin Skorupski
 Kamil Starczewski
